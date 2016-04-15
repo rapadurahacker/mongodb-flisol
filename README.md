@@ -1,4 +1,4 @@
-# mongodb-flisol
+# MongoDB Flisol - 2016
 Na FLISoL Juazeiro do Norte - Ce, foi dado um mini-curso sobre MongoDB banco de dado NoSQL, com grande performance.
 
 ## Slide
